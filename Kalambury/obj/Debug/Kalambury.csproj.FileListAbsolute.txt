@@ -1,0 +1,29 @@
+c:\users\pmazur\documents\visual studio 2012\Projects\ProstyWCF\Kalambury\bin\Debug\Kalambury.exe.config
+c:\users\pmazur\documents\visual studio 2012\Projects\ProstyWCF\Kalambury\obj\Debug\Kalambury.Form1.resources
+c:\users\pmazur\documents\visual studio 2012\Projects\ProstyWCF\Kalambury\obj\Debug\Kalambury.Properties.Resources.resources
+c:\users\pmazur\documents\visual studio 2012\Projects\ProstyWCF\Kalambury\obj\Debug\Kalambury.csproj.GenerateResource.Cache
+c:\users\pmazur\documents\visual studio 2012\Projects\ProstyWCF\Kalambury\bin\Debug\Kalambury.exe
+c:\users\pmazur\documents\visual studio 2012\Projects\ProstyWCF\Kalambury\bin\Debug\Kalambury.pdb
+c:\users\pmazur\documents\visual studio 2012\Projects\ProstyWCF\Kalambury\obj\Debug\Kalambury.exe
+c:\users\pmazur\documents\visual studio 2012\Projects\ProstyWCF\Kalambury\obj\Debug\Kalambury.pdb
+C:\Users\PMazur\Documents\Visual Studio 2012\Projects\KalamburyWcf\Kalambury\bin\Debug\Kalambury.exe.config
+C:\Users\PMazur\Documents\Visual Studio 2012\Projects\KalamburyWcf\Kalambury\obj\Debug\Kalambury.exe
+C:\Users\PMazur\Documents\Visual Studio 2012\Projects\KalamburyWcf\Kalambury\obj\Debug\Kalambury.pdb
+C:\Users\PMazur\Documents\Visual Studio 2012\Projects\KalamburyWcf\Kalambury\bin\Debug\Kalambury.exe
+C:\Users\PMazur\Documents\Visual Studio 2012\Projects\KalamburyWcf\Kalambury\bin\Debug\Kalambury.pdb
+C:\Users\PMazur\Documents\Visual Studio 2012\Projects\KalamburyWcf\Kalambury\obj\Debug\Kalambury.csprojResolveAssemblyReference.cache
+C:\Users\PMazur\Documents\Visual Studio 2012\Projects\KalamburyWcf\Kalambury\obj\Debug\Kalambury.Form1.resources
+C:\Users\PMazur\Documents\Visual Studio 2012\Projects\KalamburyWcf\Kalambury\obj\Debug\Kalambury.Properties.Resources.resources
+C:\Users\PMazur\Documents\Visual Studio 2012\Projects\KalamburyWcf\Kalambury\obj\Debug\Kalambury.csproj.GenerateResource.Cache
+C:\Users\PMazur\Desktop\Piotr Mazur Projekt PUS\KalamburyWcf\Kalambury\bin\Debug\Kalambury.exe.config
+C:\Users\PMazur\Desktop\Piotr Mazur Projekt PUS\KalamburyWcf\Kalambury\obj\Debug\Kalambury.exe
+C:\Users\PMazur\Desktop\Piotr Mazur Projekt PUS\KalamburyWcf\Kalambury\obj\Debug\Kalambury.pdb
+C:\Users\PMazur\Desktop\Piotr Mazur Projekt PUS\KalamburyWcf\Kalambury\bin\Debug\Kalambury.exe
+C:\Users\PMazur\Desktop\Piotr Mazur Projekt PUS\KalamburyWcf\Kalambury\bin\Debug\Kalambury.pdb
+C:\Users\PMazur\Desktop\Piotr Mazur Projekt PUS\KalamburyWcf\Kalambury\obj\Debug\Kalambury.csprojResolveAssemblyReference.cache
+C:\Users\PMazur\Desktop\Piotr Mazur Projekt PUS\KalamburyWcf\Kalambury\obj\Debug\Kalambury.Form1.resources
+C:\Users\PMazur\Desktop\Piotr Mazur Projekt PUS\KalamburyWcf\Kalambury\obj\Debug\Kalambury.Properties.Resources.resources
+C:\Users\PMazur\Desktop\Piotr Mazur Projekt PUS\KalamburyWcf\Kalambury\obj\Debug\Kalambury.csproj.GenerateResource.Cache
+C:\Users\PMazur\Desktop\SimpleWCFApp-Kalambury\Kalambury\bin\Debug\Kalambury.exe.config
+C:\Users\PMazur\Desktop\SimpleWCFApp-Kalambury\Kalambury\obj\Debug\Kalambury.exe
+C:\Users\PMazur\Desktop\SimpleWCFApp-Kalambury\Kalambury\obj\Debug\Kalambury.pdb

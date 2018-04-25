@@ -1,0 +1,10 @@
+C:\Users\PMazur\Documents\Visual Studio 2012\Projects\KalamburyWcf\ProstyWCF\obj\Debug\ProstyWCF.dll
+C:\Users\PMazur\Documents\Visual Studio 2012\Projects\KalamburyWcf\ProstyWCF\bin\ProstyWCF.dll
+C:\Users\PMazur\Documents\Visual Studio 2012\Projects\KalamburyWcf\ProstyWCF\bin\ProstyWCF.pdb
+C:\Users\PMazur\Documents\Visual Studio 2012\Projects\KalamburyWcf\ProstyWCF\obj\Debug\ProstyWCF.pdb
+C:\Users\PMazur\Documents\Visual Studio 2012\Projects\KalamburyWcf\ProstyWCF\obj\Debug\KalamburyWcf.csprojResolveAssemblyReference.cache
+C:\Users\PMazur\Desktop\Piotr Mazur Projekt PUS\KalamburyWcf\ProstyWCF\bin\ProstyWCF.dll
+C:\Users\PMazur\Desktop\Piotr Mazur Projekt PUS\KalamburyWcf\ProstyWCF\bin\ProstyWCF.pdb
+C:\Users\PMazur\Desktop\Piotr Mazur Projekt PUS\KalamburyWcf\ProstyWCF\obj\Debug\KalamburyWcf.csprojResolveAssemblyReference.cache
+C:\Users\PMazur\Desktop\Piotr Mazur Projekt PUS\KalamburyWcf\ProstyWCF\obj\Debug\ProstyWCF.dll
+C:\Users\PMazur\Desktop\Piotr Mazur Projekt PUS\KalamburyWcf\ProstyWCF\obj\Debug\ProstyWCF.pdb

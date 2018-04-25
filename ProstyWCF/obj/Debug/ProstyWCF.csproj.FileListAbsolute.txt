@@ -1,0 +1,4 @@
+c:\users\pmazur\documents\visual studio 2012\Projects\ProstyWCF\ProstyWCF\bin\ProstyWCF.dll
+c:\users\pmazur\documents\visual studio 2012\Projects\ProstyWCF\ProstyWCF\bin\ProstyWCF.pdb
+c:\users\pmazur\documents\visual studio 2012\Projects\ProstyWCF\ProstyWCF\obj\Debug\ProstyWCF.dll
+c:\users\pmazur\documents\visual studio 2012\Projects\ProstyWCF\ProstyWCF\obj\Debug\ProstyWCF.pdb

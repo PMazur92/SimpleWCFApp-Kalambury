@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="b37d1aa6-ad6b-4b49-8a9a-278344f7d2be" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:49945/Kalambury.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Kalambury.xsd" MetadataType="Schema" ID="a306a676-90ca-4342-a404-113b1054c2e6" SourceId="1" SourceUrl="http://localhost:49945/Kalambury.svc?xsd=xsd1" />
+    <MetadataFile FileName="Kalambury1.xsd" MetadataType="Schema" ID="0a815241-3b98-48b5-8a53-5eb5ff0d26d9" SourceId="1" SourceUrl="http://localhost:49945/Kalambury.svc?xsd=xsd0" />
+    <MetadataFile FileName="Kalambury.wsdl" MetadataType="Wsdl" ID="8aab817e-8361-436a-beb1-cf56923ba6a8" SourceId="1" SourceUrl="http://localhost:49945/Kalambury.svc?wsdl" />
+    <MetadataFile FileName="Kalambury.disco" MetadataType="Disco" ID="5f095695-98f3-4c5f-9adc-10b12866ed18" SourceId="1" SourceUrl="http://localhost:49945/Kalambury.svc?disco" />
+    <MetadataFile FileName="Kalambury2.xsd" MetadataType="Schema" ID="ef7790ad-0b64-4506-943f-33f5863a0185" SourceId="1" SourceUrl="http://localhost:49945/Kalambury.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

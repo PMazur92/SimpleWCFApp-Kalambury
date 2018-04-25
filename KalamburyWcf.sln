@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KalamburyWcf", "ProstyWCF\KalamburyWcf.csproj", "{BDD83421-4FD7-4C6A-97A3-E1F6A83AC703}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kalambury", "Kalambury\Kalambury.csproj", "{34BBBB87-97F3-47FE-8E3F-E7B5AEA3087A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{BDD83421-4FD7-4C6A-97A3-E1F6A83AC703} = {BDD83421-4FD7-4C6A-97A3-E1F6A83AC703}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDD83421-4FD7-4C6A-97A3-E1F6A83AC703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDD83421-4FD7-4C6A-97A3-E1F6A83AC703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDD83421-4FD7-4C6A-97A3-E1F6A83AC703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDD83421-4FD7-4C6A-97A3-E1F6A83AC703}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34BBBB87-97F3-47FE-8E3F-E7B5AEA3087A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34BBBB87-97F3-47FE-8E3F-E7B5AEA3087A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34BBBB87-97F3-47FE-8E3F-E7B5AEA3087A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34BBBB87-97F3-47FE-8E3F-E7B5AEA3087A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

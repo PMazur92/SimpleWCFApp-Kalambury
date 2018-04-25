@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:49945/Kalambury.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/KalamburyWcf" />
+  <xs:element name="wyslijPozycje">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="x1" type="xs:float" />
+        <xs:element minOccurs="0" name="y1" type="xs:float" />
+        <xs:element minOccurs="0" name="x2" type="xs:float" />
+        <xs:element minOccurs="0" name="y2" type="xs:float" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="wyslijPozycjeResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="pobierzRysujacego">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="pobierzRysujacegoResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/KalamburyWcf" minOccurs="0" name="pobierzRysujacegoResult" nillable="true" type="q1:User" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="dolaczDoGry">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="nick" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="dolaczDoGryResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/KalamburyWcf" minOccurs="0" name="dolaczDoGryResult" nillable="true" type="q2:User" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="wyjdzZGry">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q3="http://schemas.datacontract.org/2004/07/KalamburyWcf" minOccurs="0" name="uzytkownik" nillable="true" type="q3:User" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="pobierzUzytkownikow">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="pobierzUzytkownikowResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q4="http://schemas.datacontract.org/2004/07/KalamburyWcf" minOccurs="0" name="pobierzUzytkownikowResult" nillable="true" type="q4:ArrayOfUser" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="wyczysc">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="wyslijWiadomosc">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q5="http://schemas.datacontract.org/2004/07/KalamburyWcf" minOccurs="0" name="uzytkownik" nillable="true" type="q5:User" />
+        <xs:element minOccurs="0" name="wiadomosc" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="pobierzGrafike">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="pobierzGrafikeResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="pobierzGrafikeResult" nillable="true" type="xs:base64Binary" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="rysujPunkt">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="x1" type="xs:float" />
+        <xs:element minOccurs="0" name="y1" type="xs:float" />
+        <xs:element minOccurs="0" name="x2" type="xs:float" />
+        <xs:element minOccurs="0" name="y2" type="xs:float" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="dodajUzytkownika">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q6="http://schemas.datacontract.org/2004/07/KalamburyWcf" minOccurs="0" name="user" nillable="true" type="q6:User" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="usunUzytkownika">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q7="http://schemas.datacontract.org/2004/07/KalamburyWcf" minOccurs="0" name="user" nillable="true" type="q7:User" />
+        <xs:element xmlns:q8="http://schemas.datacontract.org/2004/07/KalamburyWcf" minOccurs="0" name="uzytkownicy" nillable="true" type="q8:ArrayOfUser" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ustawHaslo">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="name" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="wyczyscObraz">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="wiadomosc">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="wiadomosc" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="poprawnaOdp">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

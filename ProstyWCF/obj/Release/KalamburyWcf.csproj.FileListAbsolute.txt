@@ -1,0 +1,4 @@
+C:\Users\PMazur\Desktop\Piotr Mazur Projekt PUS\KalamburyWcf\ProstyWCF\bin\ProstyWCF.dll
+C:\Users\PMazur\Desktop\Piotr Mazur Projekt PUS\KalamburyWcf\ProstyWCF\bin\ProstyWCF.pdb
+C:\Users\PMazur\Desktop\Piotr Mazur Projekt PUS\KalamburyWcf\ProstyWCF\obj\Release\ProstyWCF.dll
+C:\Users\PMazur\Desktop\Piotr Mazur Projekt PUS\KalamburyWcf\ProstyWCF\obj\Release\ProstyWCF.pdb
